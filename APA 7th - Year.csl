@@ -2204,7 +2204,6 @@
   <citation collapse="year" disambiguate-add-givenname="true" disambiguate-add-names="true" disambiguate-add-year-suffix="true" et-al-min="3" et-al-use-first="1">
     <sort>
       <key macro="date-sort-group"/>
-      <key macro="date-sort"/>
     </sort>
     <layout delimiter="; " prefix="(" suffix=")">
       <group delimiter=", ">
